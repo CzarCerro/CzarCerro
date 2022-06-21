@@ -7,6 +7,7 @@
 
   
  [![Gmail Badge](https://img.shields.io/badge/-abramobligacion@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abramobligacion@gmail.com)](mailto:abramobligacion@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-abramobligacion-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abramobligacion/)](https://www.linkedin.com/in/abramobligacion/)
   
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=czarcerro&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
